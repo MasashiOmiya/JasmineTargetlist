@@ -1,10 +1,10 @@
 # Jasmine targetlist
 
-Sirius catalog : /home/omiya/jasmine-targetlist/SIRIUS/WGCCatAll.dat
-GAIA EDR3 and 2MASS xmatch catalog by GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiaedr3_2MASS.csv
+Sirius catalog : /home/omiya/jasmine-targetlist/SIRIUS/WGCCatAll.dat  
+GAIA EDR3 and 2MASS xmatch catalog by GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiaedr3_2MASS.csv  
 
 
-star list in small small region  
+star lists in a small region
 - gaiaedr3_v1.csv  
 - twomass_v1.csv  
 - vvv_v1.csv  
