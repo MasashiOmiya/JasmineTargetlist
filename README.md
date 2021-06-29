@@ -1,10 +1,13 @@
 # Jasmine targetlist
 
-Sirius catalog : /home/omiya/jasmine-targetlist/SIRIUS/WGCCatAll.dat  
+```
+jasmine_target_getlist.ipynb
+```
+
 GAIA EDR3 and 2MASS xmatch catalog by GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiaedr3_2MASS.csv  
+Sirius catalog : /home/omiya/jasmine-targetlist/SIRIUS/WGCCatAll.dat  
 
-
-star lists in a small region
+Star lists in a small region in a directory of /home/omiya/jasmine-targetlist/
 - gaiaedr3_v1.csv  
 - twomass_v1.csv  
 - vvv_v1.csv  
