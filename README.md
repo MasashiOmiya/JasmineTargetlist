@@ -2,16 +2,38 @@
 
 ```
 jasmine_target_getlist.ipynb
+jasmine_target_xmatch_gaiaedr3_2mass.ipynb
+jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb
+jasmine_target_xmatch_sirius_gaia3_prototype.ipynb
 ```
 
-GAIA EDR3 and 2MASS xmatch catalog by GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiaedr3_2MASS_bygaiadr2.csv  
-Sirius catalog : /home/omiya/jasmine-targetlist/SIRIUS/WGCCatAll.dat  
+GAIA EDR3 and 2MASS xmatch catalog from GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiaedr3_2MASS_bygaiadr2.csv  
+Sirius catalog : /home/omiya/jasmine-targetlist/SIRIUS/WGCCatAll.dat on jasmine GPU server
 
 Star lists in a small region in a directory of /home/omiya/jasmine-targetlist/
 - gaiaedr3_v1.csv  
-- twomass_v1.csv  
+- twomass_v1.csv
+- gsc_v1.csv
 - vvv_v1.csv  
 - galacticnucleus_v1.csv  
 - sirius_v1.csv  
 - xmatch_gaiaedr3_2MASS_bygaiadr2_v1.csv (small area)
 - xmatch_gaiaedr3_2MASS_bygaiadr2_v2.csv (jasmine region)
+
+- xmatch_gaiaedr3_2MASS_v1.csv  by jasmine_target_getlist.ipynb
+- xmatch_gaiaedr3_2MASS_v2.csv  by jasmine_target_xmatch_gaiaedr3_2mass.ipynb @jasmine regions
+- xmatch_gaiaedr3_2MASS_v3.csv  by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb
+- xmatch_or_gaiaedr3_2MASS_v3.csv  by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb
+- xmatch_sirius_gaiaedr3_v0.csv  by jasmine_target_xmatch_sirius_gaia3_prototype.ipynb
+
+Package requirements
+```
+numpy as np
+pandas as pd
+astropy
+astroquery
+tqdm
+multiprocessing
+matplotlib
+```
+
