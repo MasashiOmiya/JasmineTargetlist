@@ -20,11 +20,11 @@ Star lists in a small region in a directory of /home/omiya/jasmine-targetlist/
 - xmatch_gaiaedr3_2MASS_bygaiadr2_v1.csv (small area)
 - xmatch_gaiaedr3_2MASS_bygaiadr2_v2.csv (jasmine region)
 
-- xmatch_gaiaedr3_2MASS_v1.csv  by jasmine_target_getlist.ipynb
-- xmatch_gaiaedr3_2MASS_v2.csv  by jasmine_target_xmatch_gaiaedr3_2mass.ipynb @jasmine regions
-- xmatch_gaiaedr3_2MASS_v3.csv  by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb
-- xmatch_or_gaiaedr3_2MASS_v3.csv  by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb
-- xmatch_sirius_gaiaedr3_v0.csv  by jasmine_target_xmatch_sirius_gaia3_prototype.ipynb
+- xmatch_gaiaedr3_2MASS_v1.csv  (by jasmine_target_getlist.ipynb)
+- xmatch_gaiaedr3_2MASS_v2.csv  (by jasmine_target_xmatch_gaiaedr3_2mass.ipynb @jasmine regions)
+- xmatch_gaiaedr3_2MASS_v3.csv  (by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb)
+- xmatch_or_gaiaedr3_2MASS_v3.csv  (by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb)
+- xmatch_sirius_gaiaedr3_v0.csv  (by jasmine_target_xmatch_sirius_gaia3_prototype.ipynb)
 
 Package requirements
 ```
