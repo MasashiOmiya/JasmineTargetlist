@@ -18,6 +18,7 @@ Star lists in a small region in a directory of /home/omiya/jasmine-targetlist/ o
 - galacticnucleus_v1.csv  
 - sirius_v1.csv  
   
+  
 - xmatch_gaiaedr3_2MASS_v1.csv  (by jasmine_target_getlist.ipynb)
 - xmatch_gaiaedr3_2MASS_v2.csv  (by jasmine_target_xmatch_gaiaedr3_2mass.ipynb @jasmine regions)
 - xmatch_gaiaedr3_2MASS_v3.csv  (by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb)
