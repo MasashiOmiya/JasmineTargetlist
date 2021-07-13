@@ -2,6 +2,7 @@
 
 ```
 jasmine_target_getlist.ipynb
+jasmine_target_xmatch_gaiadr2_2mass.ipynb
 jasmine_target_xmatch_gaiaedr3_2mass.ipynb
 jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb
 jasmine_target_xmatch_sirius_gaia3_prototype.ipynb
@@ -24,6 +25,7 @@ Star lists in a small region in a directory of /home/omiya/jasmine-targetlist/ o
 - xmatch_gaiaedr3_2MASS_v3.csv  (by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb)
 - xmatch_or_gaiaedr3_2MASS_v3.csv  (by jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb)
 - xmatch_sirius_gaiaedr3_v0.csv  (by jasmine_target_xmatch_sirius_gaia3_prototype.ipynb)
+- xmatch_gaiadr2_2MASS_v2.csv  (by jasmine_target_xmatch_gaiaedr3_2mass.ipynb @jasmine regions)
 
 Package requirements
 ```
