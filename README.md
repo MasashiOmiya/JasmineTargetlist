@@ -8,7 +8,8 @@ jasmine_target_xmatch_or_gaiaedr3_2mass.ipynb
 jasmine_target_xmatch_sirius_gaia3_prototype.ipynb
 ```
 
-GAIA EDR3 and 2MASS xmatch catalog from GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiaedr3_2MASS_bygaiadr2.csv  
+GAIA EDR3 and 2MASS xmatch catalog from GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiaedr3_2MASS_3x3.csv
+GAIA DR2 and 2MASS xmatch catalog from GAIA archive : /home/omiya/jasmine_targetlist/xmatch_gaiedr2_2MASS_3x3.csv
 Sirius catalog : /home/omiya/jasmine-targetlist/SIRIUS/WGCCatAll.dat 
 
 Star lists in a small region in a directory of /home/omiya/jasmine-targetlist/ on jasmine GPU server
